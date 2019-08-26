@@ -1,0 +1,61 @@
+RPA Solution Architect Role
+
+
+    Key responsibilities:
+
+        RPA Solution Architecture defition.
+        Governance of the end-to-end performan of the agreed solution.
+        Automation process optimization.
+        Effort estimation.
+        Code review.
+        Workflow component and reusable definition.
+        PDD (Process Definition Component) and DSD (Development Specification Document) sign off.
+        Number of robots used, config file, asset, queue, and schudele defition.
+        Logging and Reporting - Dashboards.
+
+    Background and skillset:
+
+        A lot of things that I don't have.
+
+
+Stages of an RPA Project.
+
+    01 Enable
+    Infrastructure Setup
+
+        Designing the server architecture.
+        Installing and configuring the architecture.
+        Setting up dev, test & production environments.
+    
+    02 Preparation
+    Project Governance
+
+        Agreeing on the project development approach.
+        Reviewing the RPA best practices.
+
+    03 Design
+    Workflow Design
+
+        Filling in the Process Design Document (PDD).
+        Creating test cases and data.
+        Designing the solution.
+
+    04 Build
+    Workflow Development
+
+        Building the workflows.
+        Performing Unit and Functional testing.
+        Creating the Development Specification Document (DSD).
+
+    05 Test
+    Quality Assurance
+
+        Executing the test cases.
+        Reporting the results.
+        Making the Go/NoGo Decision.
+
+    06 Sustain 
+    Hypercare
+
+        Performing workflow support.
+        Managing changes and Improvements.
